@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
+  "version": "1.0.1",
+  "downloadUrl": "ضع هنا رابط تحميل WorkshopSetup.exe من الـ Release",
   "releaseNotes": [
-    "First Release"
+    "إصلاحات عامة",
+    "تحسينات الأداء"
   ]
 }
